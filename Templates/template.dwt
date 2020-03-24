@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body {
+	background-color: #f9f9f9;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div align="center">
+  <table width="780" border="0" cellspacing="5" cellpadding="0">
+    <tr>
+      <td bgcolor="#FFFFFF"><div align="center"><img src="../images/img_03.jpg" width="1280" height="66" usemap="#Map" border="0" /></div></td>
+    </tr>
+    <tr>
+      <td bgcolor="#FFFFFF"><!-- TemplateBeginEditable name="Main Content" -->Main Content<!-- TemplateEndEditable --></td>
+    </tr>
+    <tr>
+      <td bgcolor="#FFFFFF"><div align="center"><img src="../images/img_06.jpg" width="918" height="118" /></div></td>
+    </tr>
+  </table>
+</div>
+
+<map name="Map" id="Map">
+  <area shape="rect" coords="238,3,364,68" href="../MacBook.html" alt="MacBook" />
+</map>
+</body>
+</html>
